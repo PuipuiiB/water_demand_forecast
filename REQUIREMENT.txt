@@ -1,0 +1,8 @@
+pandas
+prophet
+datetime
+holidays
+requests
+pymongo
+plotly
+streamlit
